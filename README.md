@@ -137,7 +137,7 @@ Then, run `qlmanage -r` reload QuickLook
 [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) | Quicklook plugin to view Adobe Photoshop pattern files in Apple's Finder application | .pat |
 [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)|open .car files and browse/extract their images| .car |
 [phew](https://github.com/sveinbjornt/Phew)| FLIF image viewer and QuickLook plugin for macOS | FLIF|
-[Animated GIF](sourceforge.net/projects/animgifqlgen/) | preview of Animated GIFs. | .gif |
+[Animated GIF](https://sourceforge.net/projects/animgifqlgen/) | preview of Animated GIFs. | .gif |
 [ImageFolderQLGenerator](http://hasseg.org/imageFolderQLGenerator/)|This is a Quick Look Plugin (or Quick Look Generator) that creates thumbnails and previews for folders that contain image files| |
 [QLTorrent](http://technocrank.com/downloads/) |  Displays the contents of a metainfo “.torrent” file| .torrent |
 [quicklook-ipa](https://code.google.com/archive/p/quicklook-ipa/) |display iPhone / iPad / iPod Touch applications| |
