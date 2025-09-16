@@ -128,7 +128,8 @@ Then, run `qlmanage -r` reload QuickLook
 ## Packages
 | Name | descript | support file |
 | - | - | - |
-[glance](https://github.com/samuelmeuli/glance) |🔎 All-in-one Quick Look plugin |Source code(.cpp, .js, .json, .py, .swift, .yml and many more)、Markdown(.md, .markdown, .mdown, .mkdn, .mkd, .Rmd)、Archive(.tar, .tar.gz, .zip)、Jupyter Notebook(.ipynb)、Tab-separated values(.tab, .tsv) 
+[Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | macOS 10.15+ Quick Look Extension for source code files | Source code (.py, .cpp, .c, .java, .js, .go, .r, .rs, .swift and many more, including some plain files without an extension)
+[QLMarkdown](https://github.com/sbarex/QLMarkdown) | Quick Look Extension for Markdown | Markdown (.md, .rmd, .qmd, .mdx, .mdc, .apib)
 [lookdown](https://github.com/qvacua/lookdown)|A simple Markdown preview App for OS X with QuickLook support| markdown|
 [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)| Inspecting macOS Installer Packages) | .pkg |
 [QLXPlaneObj](https://github.com/Marginal/QLXPlaneObj) | display thumbnails and QuickLook previews for X-Plane 3D Object files |  .obj |
